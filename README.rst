@@ -35,6 +35,11 @@ After installing PyQt, enter the following commands to install other dependencie
 .. code:: bash
 
    pip install pyqtgraph==0.10.0
+
+And:
+
+.. code:: bash
+
    pip install pyOpenGL pyulog matplotlib numpy
    
 Once you have installed these packages you can clone the source files:
